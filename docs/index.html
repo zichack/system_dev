@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Jogos Favoritos</title>
+</head>
+<body>
+    <div class="container bg-light p-4 mt-4 rounded">
+        <h1 class="text-center mt-4">Meus Jogos Favoritos</h1>
+        <div id="game-list" class="row mt-4">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body bg-card">
+                        <h5 class="card-title">Red Dead Redemption 2</h5>
+                        <p class="card-text">Um jogo de ação e aventura desenvolvido pela Rockstar Games.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body bg-card">
+                        <h5 class="card-title">The Witcher 3: Wild Hunt</h5>
+                        <p class="card-text">Um jogo de RPG desenvolvido pela CD Projekt RED.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body bg-card">
+                        <h5 class="card-title">The Legend of Zelda: Breath of the Wild</h5>
+                        <p class="card-text">Um jogo de ação e aventura desenvolvido pela Nintendo.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body bg-card">
+                        <h5 class="card-title">God of War</h5>
+                        <p class="card-text">Um jogo de ação e aventura desenvolvido pela Santa Monica Studio.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body bg-card">
+                        <h5 class="card-title">Need For Speed Most Wanted</h5>
+                        <p class="card-text">Um jogo de corrida desenvolvido pela EA Games.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body bg-card">
+                        <h5 class="card-title">Roblox</h5>
+                        <p class="card-text">Uma plataforma de jogos online para todos os públicos.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <form id="game-form" class="mt-4">
+            <div class="mb-3">
+                <label for="nome" class="form-label">Nome</label>
+                <input type="text" class="form-control" id="nome" required>
+            </div>
+            <div class="mb-3">
+                <label for="idade" class="form-label">Idade</label>
+                <input type="number" class="form-control" id="idade" required>
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" required>
+            </div>
+            <div class="mb-3">
+                <label for="game-title" class="form-label">Título do Jogo</label>
+                <input type="text" class="form-control" id="game-title" required>
+            </div>
+            <div class="mb-3">
+                <label for="game-genre" class="form-label">Gênero do Jogo</label>
+                <select id="game-genre" class="form-select" required>
+                    <option value="" disabled selected>Selecione o Gênero</option>
+                    <option value="acao">Ação</option>
+                    <option value="aventura">Aventura</option>
+                    <option value="rpg">RPG</option>
+                    <option value="corrida">Corrida</option>
+                    <option value="plataforma">Plataforma</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="game-description" class="form-label">Descrição do Jogo</label>
+                <textarea class="form-control" id="game-description" rows="3" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Adicionar Jogo</button>
+        </form>
+    </div>
+    
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
