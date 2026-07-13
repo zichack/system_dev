@@ -1,0 +1,101 @@
+Nome,Validade,Preço,Quantidade
+Arroz Integral 1kg,2026-11-15,8.90,34
+Feijão Preto 1kg,2026-10-20,7.50,28
+Macarrão Espaguete 500g,2027-01-12,4.20,51
+Óleo de Soja 900ml,2026-09-05,6.80,40
+Leite Integral 1L,2026-08-18,5.40,62
+Café Torrado 500g,2027-03-10,14.90,19
+Açúcar Refinado 1kg,2027-02-25,4.70,44
+Farinha de Trigo 1kg,2026-12-08,5.10,30
+Biscoito Recheado Chocolate,2026-07-30,3.80,73
+Refrigerante Cola 2L,2026-06-14,9.50,22
+Sabonete Neutro 90g,2027-05-11,2.30,95
+Detergente Líquido 500ml,2027-04-02,2.90,88
+Shampoo Hidratante 350ml,2027-01-27,16.50,18
+Condicionador Nutritivo 350ml,2027-01-27,17.20,14
+Creme Dental 90g,2028-02-19,4.60,67
+Escova Dental Macia,2029-06-01,7.90,49
+Papel Higiênico 12un,2028-11-22,18.90,37
+Sabão em Pó 1kg,2027-08-09,13.40,29
+Amaciante 2L,2027-10-16,11.80,24
+Desinfetante Floral 1L,2027-09-03,6.70,46
+Água Sanitária 1L,2027-12-28,4.90,53
+Esponja Multiuso,2029-03-17,1.80,120
+Chocolate ao Leite 90g,2026-11-01,5.50,61
+Suco de Laranja 1L,2026-07-19,8.20,33
+Iogurte Natural 170g,2026-06-25,3.40,57
+Queijo Mussarela 500g,2026-06-29,21.90,12
+Presunto Fatiado 500g,2026-06-28,18.50,16
+Manteiga com Sal 200g,2026-08-07,9.10,26
+Margarina 500g,2026-09-12,7.20,31
+Cereal Matinal 300g,2027-02-14,12.80,20
+Aveia em Flocos 250g,2027-03-22,6.40,42
+Granola Tradicional 500g,2027-04-05,15.60,17
+Mel 300g,2028-01-09,18.90,11
+Achocolatado 400g,2027-06-18,9.80,36
+Chá de Camomila 10 sachês,2027-08-30,4.10,54
+Ervilha em Conserva,2028-02-12,4.70,48
+Milho Verde em Conserva,2028-01-21,4.50,52
+Molho de Tomate 340g,2027-07-11,3.20,65
+Ketchup 400g,2027-10-08,7.60,21
+Mostarda 200g,2027-09-14,5.30,23
+Maionese 500g,2027-11-27,8.90,27
+Pimenta Calabresa 50g,2028-05-19,6.10,15
+Sal Refinado 1kg,2029-01-03,2.40,58
+Tempero Completo 300g,2027-06-06,5.90,39
+Canela em Pó 40g,2028-07-25,4.80,13
+Cravo da Índia 30g,2028-04-13,5.20,9
+Pão de Forma Integral,2026-06-17,10.50,25
+Torrada Integral 160g,2027-01-30,6.70,32
+Batata Palha 120g,2027-03-03,8.40,19
+Salgadinho Milho 90g,2026-12-05,4.90,70
+Amendoim Torrado 500g,2027-02-08,13.90,22
+Castanha de Caju 250g,2028-03-16,24.50,10
+Nozes 200g,2028-05-08,29.90,8
+Uva Passa 150g,2027-09-29,7.80,14
+Leite Condensado 395g,2027-04-24,6.50,43
+Creme de Leite 200g,2027-03-28,4.30,47
+Gelatina Morango 25g,2027-08-12,2.10,74
+Pudim Baunilha 50g,2027-07-01,3.70,35
+Sorvete Creme 2L,2026-10-11,24.90,6
+Pizza Congelada Calabresa,2026-09-26,18.70,9
+Hambúrguer Bovino 672g,2026-11-18,21.40,13
+Linguiça Toscana 1kg,2026-10-02,19.90,15
+Peito de Frango 1kg,2026-08-21,17.80,18
+Carne Moída 1kg,2026-08-15,32.50,7
+Filé de Tilápia 800g,2026-09-09,36.90,5
+Arroz Branco 5kg,2027-02-02,29.90,12
+Feijão Carioca 1kg,2026-12-20,8.10,41
+Macarrão Penne 500g,2027-01-15,4.60,45
+Farofa Temperada 400g,2027-06-23,7.10,28
+Azeitona Verde 200g,2028-02-07,9.30,17
+Palmito Pupunha 300g,2028-04-18,15.40,11
+Atum Ralado 170g,2027-11-09,8.80,26
+Sardinha em Óleo 125g,2027-10-31,6.20,38
+Suco de Uva Integral 1L,2027-03-12,16.90,20
+Água Mineral 500ml,2027-12-01,2.50,96
+Energético 250ml,2027-05-14,9.90,29
+Cerveja Sem Álcool 350ml,2027-07-20,4.90,33
+Filtro de Café 103,2029-02-15,5.80,18
+Guardanapo Papel 50un,2028-08-10,3.60,44
+Alumínio Rolo 30m,2029-01-27,8.50,16
+Filme PVC 15m,2028-12-19,6.90,21
+Vela Aromática Lavanda,2029-06-05,14.20,12
+Inseticida Aerosol 360ml,2028-10-03,17.50,14
+Ração para Gatos 1kg,2027-09-06,22.90,19
+Ração para Cães 10kg,2027-12-13,89.90,4
+Areia Higiênica 4kg,2028-01-29,18.60,10
+Pilha Alcalina AA 4un,2030-03-08,15.90,27
+Lâmpada LED 12W,2031-07-17,12.40,31
+Caderno Universitário 200fl,2030-02-11,19.80,24
+Caneta Esferográfica Azul,2031-05-22,2.20,110
+Marcador Permanente Preto,2030-09-14,6.70,39
+Cola Branca 90g,2030-11-30,4.40,35
+Tesoura Escolar,2032-04-07,9.60,18
+Mochila Escolar,2031-08-25,89.00,7
+Carregador USB-C,2030-06-18,39.90,13
+Fone de Ouvido Bluetooth,2031-10-12,129.90,6
+Mouse Óptico USB,2030-05-09,34.50,15
+Teclado Mecânico Gamer,2031-12-21,249.90,3
+Monitor LED 24pol,2032-02-28,799.90,2
+Notebook 15pol,2033-03-19,3499.90,1
